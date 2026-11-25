@@ -15,6 +15,14 @@
 **Created by:** Rdy7d3r & Th&run  
 **Developer:** Rdy7d3r
 
+git clone https://github.com/lakshmirreddy7823-RDY/rdy7d3r-phantom-droid-v2-rdy7d3r--
+
+
+cd rdy7d3r-phantom-droid-v2-rdy7d3r-- 
+
+pip install -r requirements.txt 
+
+
 ## About
 
 PhantomDroid v2.2 is a Python-based device testing project designed for Android and iOS diagnostics, connectivity checks, and authorized device inspection.
